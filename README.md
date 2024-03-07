@@ -7,7 +7,7 @@ This is a simple To-Do List project built with Node.js and Express. It allows yo
 1. Clone the repository:
 
    ```bash
-   git clone <>
+   git clone <https://github.com/Nafya611/to-do-list/edit/main/>
    ```
 
 2. Navigate to the project directory:
@@ -48,10 +48,5 @@ This is a simple To-Do List project built with Node.js and Express. It allows yo
 - CSS
 - JavaScript
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-
-This project was inspired by the need for a simple and straightforward to-do list application.
